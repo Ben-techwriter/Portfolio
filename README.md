@@ -8,3 +8,13 @@ My goal? To make information easy to find, easy to understand, and enjoyable to 
 
 I love collaborating with developers, designers, and SMEs to create docs that truly support users—and I’m always exploring new ways to make documentation more intuitive and accessible.
 Feel free to explore my projects below. I hope they spark ideas, help you build, or just make your day a little easier
+
+<details>
+  <summary>Samples of my writing</summary>
+
+  ### Portfolio
+  ### Documentation
+  ### Blogs
+  ### Articles
+  ### Docs
+</details>
