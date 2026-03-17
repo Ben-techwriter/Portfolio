@@ -12,9 +12,9 @@ Feel free to explore my projects below. I hope they spark ideas, help you build,
 <details>
   <summary>Samples of my writing</summary>
 
-  ### Portfolio
-  ### Documentation
-  ### Blogs
-  ### Articles
-  ### Docs
+  ### [Portfolio!](https://github.com/Ben-techwriter/Portfolio)
+  ### [Documentation!](https://github.com/Ben-techwriter/Documentation-)
+  ### [Blogs!](https://github.com/Ben-techwriter/Blogs)
+  ### [Articles!](https://github.com/Ben-techwriter/Articles)
+  ### [Docs!](https://github.com/Ben-techwriter/Docs)
 </details>
