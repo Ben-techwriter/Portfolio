@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository_data>
+  <project name="SampleProject">
+    <description>A sample repository for demonstration.</description>
+    <version>1.0.0</version>
+    <tags>
+      <tag>tutorial</tag>
+      <tag>xml</tag>
+      <tag>github</tag>
+    </tags>
+  </project>
+</repository_data>
