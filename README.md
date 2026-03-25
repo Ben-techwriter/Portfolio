@@ -17,4 +17,5 @@ Feel free to explore my projects below. I hope they spark ideas, help you build,
   ### [Articles!](https://github.com/Ben-techwriter/Articles)
   ### [Docs!](https://github.com/Ben-techwriter/Docs)
   ### [DITA Samples!](https://github.com/Ben-techwriter/DITA-Samples)
+  ### [Instructional Design!](https://github.com/Ben-techwriter/Instructional-Design)
 </details>
